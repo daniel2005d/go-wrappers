@@ -5,7 +5,7 @@ Pequeñas utilidades de Go para realizar solicitudes HTTP y leer archivos línea
 ## Instalación
 
 ```sh
-go get github.com/daniel2005d/go-wrappers
+go get github.com/daniel2005d/go-wrappers@v0.1.0
 ```
 
 Importa el paquete en tu proyecto:
